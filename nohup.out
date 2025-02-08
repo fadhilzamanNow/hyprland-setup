@@ -1,0 +1,4 @@
+Gtk-Message: 21:12:55.578: Failed to load module ""appmenu-gtk-module""
+[90m[main 2025-02-07T14:12:56.197Z][0m update#setState disabled
+[90m[main 2025-02-07T14:12:56.198Z][0m update#ctor - updates are disabled as there is no update URL
+[91m[main 2025-02-07T14:12:58.286Z][0m vscode-file: Refused to load resource /tmp/.mount_cursorqCY1XS/resources/app/extensions/theme-seti/icons/seti.woff from vscode-file: protocol (original URL: vscode-file://vscode-app/tmp/.mount_cursorqCY1XS/resources/app/extensions/theme-seti/icons/seti.woff)
